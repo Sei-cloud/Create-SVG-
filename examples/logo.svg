@@ -1,8 +1,7 @@
 
-    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-      <g fill="red">
-        <circle cx="50%" cy="50%" r="40" /> <!-- Include the generated SVG markup for the shape -->
-        <text x="50%" y="50%" fill="blue" text-anchor="middle">Sei</text> <!-- Position and style the text -->
-      </g>
-    </svg>
-  
+  <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+    <g fill="green">
+      <circle cx="50%" cy="50%" r="80" /> <!-- Include the generated SVG markup for the shape -->
+      <text x="150" y="100" fill="white" font-size="56px" text-anchor="middle" alignment-baseline="middle">SVG</text> <!-- Position and style the text -->
+    </g>
+  </svg>
