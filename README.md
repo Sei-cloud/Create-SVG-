@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contributing
 
-Others can contribute to this project via Github
+Others can contribute to this project via Github.
 
 ## Tests
 
