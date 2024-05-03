@@ -1,7 +1,4 @@
-
-  <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-    <g fill="red">
-      <rect x="10" y="10" width="80" height="80" /> <!-- Include the generated SVG markup for the shape -->
-      <text x="150" y="100" fill="white" font-size="56px" text-anchor="middle" alignment-baseline="middle">SEI</text> <!-- Position and style the text -->
-    </g>
-  </svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200"><svg height="200" width="200">
+                    <circle cx="100" cy="100" r="100" fill="red" />
+                    <text x="50%" y="50%" font-size="24" text-anchor="middle" fill=""></text>
+                </svg><text x="100" y="100" font-size="50" text-anchor="middle" alignment-baseline="middle" fill="white">SEI</text></svg>
