@@ -1,4 +1,1 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200"><svg height="200" width="200">
-                    <rect x="0" y="0" width="200" height="200" fill="yellow" />
-                    <text x="50%" y="50%" font-size="24" text-anchor="middle" fill=""></text>
-                </svg><text x="100" y="100" font-size="50" text-anchor="middle" alignment-baseline="middle" fill="blue">SVG</text></svg>
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><rect x="50" y="20" height="200" width="200" fill="red" /><text x="150" y="125" font-size="60" text-anchor="middle" fill="blue">OBI</text></svg>

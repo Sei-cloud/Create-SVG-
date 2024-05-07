@@ -34,6 +34,13 @@ Clone this repository:
 4. Run the app
     ```bash
     node index.js
+5. Prompt sample
+
+    ![Prompt](./assets/Prompt.png)
+6. Generated svg sample
+
+    ![SVG](./assets/example.png)
+7. If you're still struggling watch the video tutorial [here](https://vimeo.com/943751978?share=copy).
 
 ## License
 
