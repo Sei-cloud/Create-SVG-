@@ -52,7 +52,13 @@ Others can contribute to this project via Github.
 
 ## Tests
 
-Test this project using jest and run test files
+* Test this project using jest and run test files.
+    ```bash
+    npm test
+
+* Test Result
+
+![Result](./assets/Test%20Result.png)
 
 ## Questions
 
